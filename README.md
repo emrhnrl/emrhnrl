@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Emir</h1>
+<h1 align="center">Hi, I'm Emir</h1>
 <h3 align="center">Computer Engineer - Front End Developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack & UX Design**
