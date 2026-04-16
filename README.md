@@ -1,4 +1,4 @@
-### Hi, I'm Emirhan
+### Hi, I'm Emir
 
 Product, AI, and UX. Always exploring, always building.
 
